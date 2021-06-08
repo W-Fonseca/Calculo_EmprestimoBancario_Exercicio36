@@ -1,0 +1,10 @@
+C:\Users\Juva\source\repos\Exercicio36\Exercicio36\bin\Debug\Exercicio36.exe.config
+C:\Users\Juva\source\repos\Exercicio36\Exercicio36\bin\Debug\Exercicio36.exe
+C:\Users\Juva\source\repos\Exercicio36\Exercicio36\bin\Debug\Exercicio36.pdb
+C:\Users\Juva\source\repos\Exercicio36\Exercicio36\obj\Debug\Exercicio36.csprojAssemblyReference.cache
+C:\Users\Juva\source\repos\Exercicio36\Exercicio36\obj\Debug\Exercicio36.Form1.resources
+C:\Users\Juva\source\repos\Exercicio36\Exercicio36\obj\Debug\Exercicio36.Properties.Resources.resources
+C:\Users\Juva\source\repos\Exercicio36\Exercicio36\obj\Debug\Exercicio36.csproj.GenerateResource.cache
+C:\Users\Juva\source\repos\Exercicio36\Exercicio36\obj\Debug\Exercicio36.csproj.CoreCompileInputs.cache
+C:\Users\Juva\source\repos\Exercicio36\Exercicio36\obj\Debug\Exercicio36.exe
+C:\Users\Juva\source\repos\Exercicio36\Exercicio36\obj\Debug\Exercicio36.pdb
